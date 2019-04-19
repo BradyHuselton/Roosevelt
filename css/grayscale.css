@@ -16,7 +16,7 @@
 }
 
 #mainNav .navbar-brand {
-  color: #161616;
+  color: #461b5b;
   font-weight: 700;
   padding: .9rem 0;
 }
@@ -61,7 +61,7 @@
     background-color: rgba(226,213,234,0.95);
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #161616;
+    color: #461b5b;
   }
   #mainNav.navbar-shrink .nav-link {
     color: #461b5b;
