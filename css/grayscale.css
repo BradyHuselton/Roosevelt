@@ -7,8 +7,8 @@
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #74557f;
-  border: 1px solid #74557f;
+  color: #461b5b;
+  border: 1px solid #461b5b;
 }
 
 #mainNav .navbar-toggler:focus {
@@ -64,20 +64,20 @@
     color: #161616;
   }
   #mainNav.navbar-shrink .nav-link {
-    color: #74557f;
+    color: #461b5b;
     padding: 1.5rem 1.5rem 1.25rem;
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #74557f;
+    color: #461b5b;
   }
   #mainNav.navbar-shrink .nav-link:active {
-    color: #74557f;
+    color: #461b5b;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #74557f;
+    color: #461b5b;
     outline: none;
-    border-bottom: 0.25rem solid #74557f;
+    border-bottom: 0.25rem solid #461b5b;
   }
 }
 
