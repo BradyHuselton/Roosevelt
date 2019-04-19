@@ -153,12 +153,12 @@
 }
 
 .btn-primary:focus {
-  background-color: rgb(10,10,10);
+  background-color: rgba(226,213,234,0.5);
   color: white;
 }
 
 .btn-primary:active {
-  background-color: rgb(10,10,10) !important;
+  background-color: rgba(226,213,234,0.5) !important;
 }
 
 .about-section {
